@@ -1,0 +1,119 @@
+if age_range == '0004':
+    if persons == 'FE':
+        variables = {SP.POP.0004.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.0004.MA : 'Pop'}
+        
+if age_range == '0014':
+    if persons == 'FE':
+        variables = {SP.POP.0014.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.0014.MA : 'Pop'}
+        
+if age_range == '0509':
+    if persons == 'FE':
+        variables = {SP.POP.0509.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.0509.MA : 'Pop'}
+        
+if age_range == '1014':
+    if persons == 'FE':
+        variables = {SP.POP.1014.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.1014.MA : 'Pop'}
+        
+if age_range == '1519':
+    if persons == 'FE':
+        variables = {SP.POP.1519.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.1519.MA : 'Pop'}
+
+if age_range == '1564':
+    if persons == 'FE':
+        variables = {SP.POP.1564.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.1564.MA : 'Pop'}
+        
+if age_range == '2024':
+    if persons == 'FE':
+        variables = {SP.POP.2024.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.2024.MA : 'Pop'}
+        
+if age_range == '2529':
+    if persons == 'FE':
+        variables = {SP.POP.2529.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.2529.MA : 'Pop'}
+        
+if age_range == '3034':
+    if persons == 'FE':
+        variables = {SP.POP.3034.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.3034.MA : 'Pop'}
+        
+if age_range == '3539':
+    if persons == 'FE':
+        variables = {SP.POP.3539.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.3539.MA : 'Pop'}
+        
+if age_range == '4044':
+    if persons == 'FE':
+        variables = {SP.POP.4044.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.4044.MA : 'Pop'}
+        
+if age_range == '4549':
+    if persons == 'FE':
+        variables = {SP.POP.4549.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.4549.MA : 'Pop'}
+        
+if age_range == '5054':
+    if persons == 'FE':
+        variables = {SP.POP.5054.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.5054.MA : 'Pop'}
+        
+if age_range == '5559':
+    if persons == 'FE':
+        variables = {SP.POP.5559.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.5559.MA : 'Pop'}
+        
+if age_range == '6064':
+    if persons == 'FE':
+        variables = {SP.POP.3539.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.3539.MA : 'Pop'}
+        
+if age_range == '6569':
+    if persons == 'FE':
+        variables = {SP.POP.6569.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.6569.MA : 'Pop'}
+        
+if age_range == '65UP':
+    if persons == 'FE':
+        variables = {SP.POP.65UP.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.65UP.MA : 'Pop'}
+        
+if age_range == '7074':
+    if persons == 'FE':
+        variables = {SP.POP.7074.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.7074.MA : 'Pop'}
+        
+if age_range == '7579':
+    if persons == 'FE':
+        variables = {SP.POP.7579.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.7579.MA : 'Pop'}
+        
+if age_range == '80UP':
+    if persons == 'FE':
+        variables = {SP.POP.80UP.FE : 'Pop'}
+    elif persons == 'MA':
+        variables = {SP.POP.80UP.MA : 'Pop'}

@@ -25,7 +25,7 @@ Specifically, we will look into 2 countries with a history of trying to lower fe
 
 and 3 countries with a history of trying to raise fertility rates:
 
-1.Japan -- Regional policies to pay families for having children ('99)
+1. Japan -- Regional policies to pay families for having children ('99)
 
 2. Italy -- Fully paid leave for new fathers ('12)
 

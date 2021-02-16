@@ -20,12 +20,16 @@ To investigate, we wrote 5 seperate jupyter notebook (.ipnyb) files. They are (i
 Specifically, we will look into 2 countries with a history of trying to lower fertility rates:
 
 1. China -- One Child Policy ('79)
+
 2. India -- National Population Policy ('00)
 
 and 3 countries with a history of trying to raise fertility rates:
 
 1.Japan -- Regional policies to pay families for having children ('99)
+
 2. Italy -- Fully paid leave for new fathers ('12)
+
 3. Russia -- Maternity Capital Program (tax-breaks) ('07)
+
 ----------------------------------------------------------------------------------------------
 
